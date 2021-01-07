@@ -33,7 +33,7 @@ try:
         time.sleep(2)
 
         move.setDirection("forward")
-        move.setVelocity(60)
+        move.setVelocity(100)
         move.toMove()
         time.sleep(2)
 
@@ -49,7 +49,7 @@ try:
         time.sleep(2)
 
         move.setDirection("left")
-        move.setVelocity(60)
+        move.setVelocity(80)
         move.toMove()
         time.sleep(2)
 
@@ -57,7 +57,7 @@ try:
         time.sleep(2)
 
         move.setDirection("rigth")
-        move.setVelocity(60)
+        move.setVelocity(80)
         move.toMove()
         time.sleep(2)
 
